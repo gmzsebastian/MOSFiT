@@ -1312,6 +1312,7 @@
 			"",
 			"WFC3",
 			"WFC3_IR",
+			"ACS",
 			"ACS_WFC",
 			"ACS_SBC"
 		],
@@ -1364,7 +1365,7 @@
 				"SVO": "HST/ACS_WFC.F814W",
 				"offset": 0
 			},
-			"F850W": {
+			"F850LP": {
 				"SVO": "HST/ACS_WFC.F850LP",
 				"offset": 0
 			},
